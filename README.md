@@ -1,6 +1,7 @@
-s readme provides an overview of how to use the Dictionary API in conjunction with a request module to make GET requests and display results to users using a loop. The Dictionary API used here is provided by Dictionary API Dev and is available for free.
+this readme provides an overview of how to use the Dictionary API in conjunction with a request module to make GET requests and display results to users using a loop. 
+The Dictionary API used here is provided by Dictionary API Dev and is available for free.
 
-Table of Contents
+**Table of Contents**
 Prerequisites
 Installation
 Usage
